@@ -1,0 +1,3 @@
+# Email-SMS-Spam-Classifier
+The Email/SMS Spam Classifier is a powerful tool that combines the capabilities of machine learning and natural language processing to provide an automated and efficient solution for identifying and filtering spam messages, enhancing the overall email or messaging experience.
+Based on the assigned score, the classifier classifies messages as either spam or non-spam, allowing users to filter and prioritize their inbox effectively. This helps prevent unwanted or malicious content from reaching users, saving time and reducing the risk of falling victim to scams, phishing attacks, or unwanted marketing messages.
