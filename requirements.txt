@@ -1,4 +1,8 @@
+streamlit
 nltk
 sklearn
-stopwords
+
+
+
+
 
